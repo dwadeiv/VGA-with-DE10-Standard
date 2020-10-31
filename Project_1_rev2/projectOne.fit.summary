@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Oct 22 23:19:00 2020
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Standard Edition
+Revision Name : projectOne
+Top-level Entity Name : projectOne
+Family : Cyclone V
+Device : 5CSXFC6D6F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 524 / 41,910 ( 1 % )
+Total registers : 567
+Total pins : 168 / 499 ( 34 % )
+Total virtual pins : 0
+Total block memory bits : 1,920 / 5,662,720 ( < 1 % )
+Total RAM Blocks : 3 / 553 ( < 1 % )
+Total DSP Blocks : 0 / 112 ( 0 % )
+Total HSSI RX PCSs : 0 / 9 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 9 ( 0 % )
+Total HSSI TX PCSs : 0 / 9 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 9 ( 0 % )
+Total PLLs : 1 / 15 ( 7 % )
+Total DLLs : 0 / 4 ( 0 % )

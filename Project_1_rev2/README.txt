@@ -1,0 +1,1 @@
+This is rev.2 of the VGA project for the DE10-Standard. In rev.2, a rainbow checkerboard is outputted onto the monitor. All files are located in this main directory.

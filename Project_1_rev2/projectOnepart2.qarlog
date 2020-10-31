@@ -1,0 +1,40 @@
+Quartus Prime Archive log --	D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectOnepart2.qarlog
+
+Archive:	D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectOnepart2.qar
+Date:		Thu Oct 22 23:24:16 2020
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Standard Edition
+
+	=========== Files Selected: ===========
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/clk_divider.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/db/stp1_auto_stripped.stp
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.bsf
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.cmp
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.inc
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.mif
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.qip
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff_bb.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff_inst.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/parameters.vh
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/pg.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectOne.SDC
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectOne.qpf
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectOne.qsf
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectOne.sdc
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectOne_assignment_defaults.qdf
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectone.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/stp1.stp
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/tb.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll.cmp
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll.qip
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll.sip
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll.spd
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll/video_pll_0002.qip
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll/video_pll_0002.v
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll_sim/video_pll.vo
+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/vtc.v
+	======= Total: 29 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

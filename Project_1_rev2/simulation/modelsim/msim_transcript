@@ -1,0 +1,76 @@
+# Reading pref.tcl
+# do projectOne_run_msim_rtl_verilog.do
+# if ![file isdirectory projectOne_iputf_libs] {
+# 	file mkdir projectOne_iputf_libs
+# }
+# 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+###### Libraries for IPUTF cores 
+###### End libraries for IPUTF cores 
+###### MIF file copy and HDL compilation commands for IPUTF cores 
+# 
+# 
+# vlog "D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll_sim/video_pll.vo"
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:24:54 on Oct 22,2020
+# vlog -reportprogress 300 D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll_sim/video_pll.vo 
+# -- Compiling module video_pll
+# 
+# Top level modules:
+# 	video_pll
+# End time: 21:24:54 on Oct 22,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn {D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:24:54 on Oct 22,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn" D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/tb.v 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 21:24:55 on Oct 22,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn {D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:24:55 on Oct 22,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn" D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.v 
+# -- Compiling module frameBuff
+# 
+# Top level modules:
+# 	frameBuff
+# End time: 21:24:55 on Oct 22,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn {D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectone.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:24:55 on Oct 22,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn" D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectone.v 
+# -- Compiling module projectOne
+# 
+# Top level modules:
+# 	projectOne
+# End time: 21:24:56 on Oct 22,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn {D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/pg.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:24:56 on Oct 22,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn" D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/pg.v 
+# -- Compiling module PG
+# ** Error (suppressible): D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/pg.v(22): (vlog-2388) 'memOut' already declared in this scope (PG) at D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/pg.v(19).
+# ** Error (suppressible): D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/pg.v(23): (vlog-2388) 'memIn' already declared in this scope (PG) at D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/pg.v(17).
+# End time: 21:24:56 on Oct 22,2020, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: D:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./projectOne_run_msim_rtl_verilog.do line 22
+# D:/intelFPGA/20.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn {D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn..."
+ject1part2CarberryJohn {D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn..."

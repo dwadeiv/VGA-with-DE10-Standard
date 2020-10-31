@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/simulation/modelsim
+vframeBuff
+Z1 !s110 1603423495
+!i10b 1
+!s100 SmS4hB>cGKXkA0B`M[a7:2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPi?256=dAgU2n`ZbM>R0E3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1603409642
+8D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.v
+FD:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.v
+!i122 2
+L0 40 62
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1603423495.000000
+!s107 D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn|D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/frameBuff.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn
+Z8 tCvgOpt 0
+nframe@buff
+vprojectOne
+!s110 1603423496
+!i10b 1
+!s100 NjQGZK;1NLD7?SX5_jfJ>0
+R2
+IVljLLTG`G69Mmhg1hdjRg1
+R3
+R0
+w1602115483
+8D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectone.v
+FD:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectone.v
+!i122 3
+L0 6 133
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectone.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn|D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/projectone.v|
+!i113 1
+R6
+R7
+R8
+nproject@one
+vtb
+R1
+!i10b 1
+!s100 X_ZUB3CYl8l:lEdYDT0=51
+R2
+IA[3_UzR5NBm3_MLIdzE2Y3
+R3
+R0
+w1602126013
+8D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/tb.v
+FD:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/tb.v
+!i122 1
+L0 3 38
+R4
+r1
+!s85 0
+31
+Z9 !s108 1603423494.000000
+!s107 D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn|D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/tb.v|
+!i113 1
+R6
+R7
+R8
+vvideo_pll
+!s110 1603423494
+!i10b 1
+!s100 hUG;>lHH07Bl^aW:`7<E60
+R2
+I]4NnIl;;LOA;XNn^A=A4]2
+R3
+R0
+w1601778762
+8D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll_sim/video_pll.vo
+FD:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll_sim/video_pll.vo
+!i122 0
+L0 32 264
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll_sim/video_pll.vo|
+!s90 -reportprogress|300|D:/CU_Fall_2020/FPGA/Project1/project1part2CarberryJohn/video_pll_sim/video_pll.vo|
+!i113 1
+R8
