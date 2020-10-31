@@ -1,0 +1,31 @@
+Quartus Prime Archive log --	D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectOne.qarlog
+
+Archive:	D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectOne.qar
+Date:		Wed Oct 07 21:27:24 2020
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Standard Edition
+
+	=========== Files Selected: ===========
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/clk_divider.v
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/db/stp1_auto_stripped.stp
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/pg.v
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectOne.SDC
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectOne.qpf
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectOne.qsf
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectOne.sdc
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectOne_assignment_defaults.qdf
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/projectone.v
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/stp1.stp
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/tb.v
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll.cmp
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll.qip
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll.sip
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll.spd
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll.v
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll/video_pll_0002.qip
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll/video_pll_0002.v
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/video_pll_sim/video_pll.vo
+D:/CU_Fall_2020/FPGA/Project1/combinedVersion/vtc.v
+	======= Total: 20 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
